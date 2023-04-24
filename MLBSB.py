@@ -50,3 +50,5 @@ main_slate_lineup = create_lineup(50000, "main")
 # Create an express slate lineup
 express_slate_lineup = create_lineup(25000, "express")
 
+# Create an after hours slate lineup
+after_hours_slate_lineup = create_lineup(25000, "after hours")
